@@ -147,5 +147,4 @@ body {
 
 .container__botao:hover {
     background-color: var(--bota-azul-efeito);
-    color: var(--cor-de-fundo);
 }
